@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">My name is Henzel Marc and I've been learning software development just recently.</p>
+<p align="left">My name is Mitsui Ortega.</p>
 
 ###
 
